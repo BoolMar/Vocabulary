@@ -23,8 +23,9 @@ Syntax highlighted code block
 
 
 vocabulary
-英[vəˈkæbjələri] 美[vəˈkæbjəleri] [点击播放](https://sp1.baidu.com/-rM1hT4a2gU2pMbgoY3K/gettts?lan=en&text=vocabulary&spd=2&source=alading)
-n.(某学科中所使用的或某一语言的)词汇; (某人掌握或使用的)词汇量; 词汇表;
+英[vəˈkæbjələri] 美[vəˈkæbjəleri] 
+
+
 
 **Bold** and _Italic_ and `Code` text
 
@@ -32,6 +33,18 @@ n.(某学科中所使用的或某一语言的)词汇; (某人掌握或使用的)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+
+[点击播放](https://sp1.baidu.com/-rM1hT4a2gU2pMbgoY3K/gettts?lan=en&text=vocabulary&spd=2&source=alading)
+n.(某学科中所使用的或某一语言的)词汇; (某人掌握或使用的)词汇量; 词汇表;
+
+[<img src="https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico">](https://sp1.baidu.com/-rM1hT4a2gU2pMbgoY3K/gettts?lan=en&text=vocabulary&spd=2&source=alading/)
+
+12222333
+<audio id="audio" controls="" preload="none">
+  <source Id="mp3" src="https://sp1.baidu.com/-rM1hT4a2gU2pMbgoY3K/gettts?lan=en&text=vocabulary&spd=2&source=alading">
+</audio>
+
 
 ### Jekyll Themes
 
