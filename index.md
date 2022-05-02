@@ -21,6 +21,11 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
+vocabulary
+英[vəˈkæbjələri] 美[vəˈkæbjəleri](https://sp1.baidu.com/-rM1hT4a2gU2pMbgoY3K/gettts?lan=en&text=vocabulary&spd=2&source=alading)
+n.	(某学科中所使用的或某一语言的)词汇; (某人掌握或使用的)词汇量; 词汇表;
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
